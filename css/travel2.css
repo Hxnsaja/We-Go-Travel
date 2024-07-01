@@ -1,14 +1,17 @@
 #submit {
 	padding: 15px;
 }
+
 #Subheader {
 	background-image: url(../images/travel2-sectionbg3.png);
 	background-repeat: repeat;
 	background-position: center
 }
+
 html {
 	background-color: #f7f6f2;
 }
+
 #Wrapper, #Content {
 	background-color: #f7f6f2;
 }
@@ -577,7 +580,7 @@ h6 {
 	background-color: #141414 !important;
 }
 #Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
-	height: 60px;
+	height: 90px;
 	line-height: 60px;
 	padding: 15px 0;
 }
